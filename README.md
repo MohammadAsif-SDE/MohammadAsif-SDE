@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Mohammad Asif Ali M</h1>
+<h1 align="center">Hi 👋, I'm Mahammad Asif Ali M</h1>
 <h3 align="center">A passionate Software Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadAsif-SDE&color=blue&abbreviated=true" /> </p>
 
-- 🔭 I’m currently working on [Beau Roi](https://beauroi.com/)
+- 🔭 I’m currently working in [Beau Roi](https://beauroi.com/)
 
 - 🌱 I’m currently learning **Next.JS**
 
@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **Java, PHP, React , Next.js**
 
-- 📫 How to reach me **mohammadaasif078p@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **Mahammadasifali.ish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
